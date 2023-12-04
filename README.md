@@ -32,7 +32,7 @@ It can be shown that such k always exists under the given constraints.
 ### Output
 For each test case, print the answer — maximum non-negative integer k such that 0≤k≤n and kmodx=y. It is guaranteed that the answer always exists.
 
-## ¿Cómo se desarrollo?
+## ¿Cómo se Desarrolló?
 
 Lo primero es que se identificó como solucionar el problema, para lo cual se concluye con la siguiente formula matematica que lo resuelve:
 ### k = n - ((n - y) % x)
